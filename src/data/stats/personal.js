@@ -5,7 +5,7 @@ const Age = () => {
 
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('1992-08-20T09:24:00');
+    const birthTime = new Date('1992-08-20T08:00:00');
     setAge(((Date.now() - birthTime) / divisor).toFixed(11));
   };
 
@@ -27,9 +27,16 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 53,
+    value: 39,
     link:
-      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+      'https://www.google.com/maps/d/edit?mid=1t0VDwxDt9ktzliERW0rMJ6jYkTsEXN8&usp=sharing',
+  },
+  {
+    key: 'games',
+    label: 'Games Finished',
+    value: 539,
+    link:
+      'http://www.gamespot.com/profile/origamibomber/stacks/gamesivefinished/76467699/',
   },
   {
     key: 'location',

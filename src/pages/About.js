@@ -4,6 +4,8 @@ import Markdown from 'markdown-to-jsx';
 
 import Main from '../layouts/Main';
 
+import Personal from '../components/Stats/Personal';
+
 const About = () => {
   const [markdown, setMarkdown] = useState('');
 
@@ -35,6 +37,7 @@ const About = () => {
         <Markdown>
           {markdown}
         </Markdown>
+        <Personal />
       </article>
     </Main>
   );
