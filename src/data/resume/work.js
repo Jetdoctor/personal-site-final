@@ -12,7 +12,27 @@
  * @property {string[]} highlights - plain text highlights of the position (bulleted list)
  */
 const work = [
-
+  {
+    name: 'Self Study',
+    position: 'Software Engineer',
+    startDate: '2022-07-02',
+    endDate: '2050-08-12',
+    highlights: [
+      'Enrolled in multiple online courses to refresh my previous knowledge and expand my skill set, with the intention of transitioning back to software engineering, focusing on web development.',
+      'Due to some real-life commitments, the completion of the courses took longer than anticipated.',
+    ],
+  },
+  {
+    name: 'Ethereum Mining Operation',
+    position: 'Founder',
+    startDate: '2020-09-02',
+    endDate: '2022-06-20',
+    highlights: [
+      'Started as a small interest during COVID and grew to quite a substantial size.',
+      'Building, setting up, and maintaining both my own and other systems.',
+      'Started scaling down operations as Ethereum mining approached its conclusion, also the fact that this was always meant to be temporary.',
+    ],
+  },
   {
     name: 'Sumo Digital',
     position: 'Level Designer',

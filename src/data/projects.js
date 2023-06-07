@@ -31,7 +31,7 @@ const data = [
       + 'Challenge a friend to see who can become the undisputed maritime memory master!',
   },
   {
-    title: 'Divey Jones Ocean Oddysey',
+    title: 'Divey Jones Ocean Odyssey',
     subtitle: 'Mobile Indie Endless Runner Game',
     image: '/images/projects/Ocean Oddysey.jpeg',
     date: '2016-01-15',
