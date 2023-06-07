@@ -15,7 +15,9 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2><Link to="/projects">Projects</Link></h2>
-          <p>A list of projects that I&apos;m allowed to list here</p>
+          <p>A list of projects that I&apos;m allowed to list here.
+            Web projects can be found on my <a href="https://github.com/jetdoctor">github</a>
+          </p>
         </div>
       </header>
       {data.map((project) => (
