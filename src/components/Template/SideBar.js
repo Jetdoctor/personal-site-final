@@ -19,10 +19,13 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Quisque non quam at mauris gravida bibendum vitae at libero.
-        Nulla finibus elit sodales, ornare justo in, volutpat orci.
-        Morbi vestibulum, nisi vitae ultrices aliquet, felis.
+      <p>Hey, I&apos;m Ersel, a lifelong gamer turned Software Engineer.
+        During my software engineering degree in Turkey, I mainly focused on game development.
+        This led me to pursue a Master&apos;s Degree in the US to further expand my knowledge.
+        I started my career as a Technical Game Designer at Zygobot which was followed by an
+        Associate Technical Level Designer role at Sledgehammer Games. Later, I
+        joined Sumo Digital as a Level Designer in England. After considering various factors,
+        I made the decision to transition back to software engineering.
       </p>
       <ul className="actions">
         <li>
