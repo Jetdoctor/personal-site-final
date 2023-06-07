@@ -18,50 +18,44 @@ const data = [
     image: '/images/projects/Call of Duty.jpg',
     date: '2017-11-03',
     desc:
-    'Call of Duty: WWII is a 2017 first-person shooter game developed'
-    + 'by Sledgehammer Games and published by Activision.',
+      'Call of Duty: WWII is a 2017 first-person shooter game developed '
+      + 'by Sledgehammer Games and published by Activision.',
   },
   {
     title: 'Divey Jones Memory Diver',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    subtitle: 'Mobile Indie Puzzle Game',
+    image: '/images/projects/Memory Diver.png',
+    date: '2016-04-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Dare to become the card king of the Seven Seas!'
+      + 'Challenge a friend to see who can become the undisputed maritime memory master!',
   },
   {
-    title: 'Divey Jones Perpetual Ocean',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Divey Jones Ocean Oddysey',
+    subtitle: 'Mobile Indie Endless Runner Game',
+    image: '/images/projects/Ocean Oddysey.jpeg',
+    date: '2016-01-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
-  },
-  {
-    title: 'The Last Resort',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Solve the challenge of each reef to unlock “Deep Dives”. Set a new record to impress your friends. '
+      + 'How low can you go while maintaining your score?',
   },
   {
     title: 'Vampire Slayer',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    subtitle: 'Greenlit MP FPS Game',
+    image: '/images/projects/Vampire Slayer.webp',
+    date: '2014-06-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'The game features multiplayer team-based deathmatch gameplay with a unique twist. '
+      + 'Players must also contend with neutral elements scattered throughout the map, which adds an additional strategic dimension to the gameplay.',
+  },
+  {
+    title: 'The Last Resort',
+    subtitle: 'Greenlit MP Survival Game',
+    image: '/images/projects/The Last Resort.webp',
+    date: '2013-05-15',
+    desc:
+      "In this game, your objective is to defend both your base and a data unit containing vital information for humanity's survival. "
+      + 'It is a first-person shooter (FPS) where you defend your base against waves of enemies.',
   },
 ];
 
